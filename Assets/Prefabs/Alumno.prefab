@@ -40,59 +40,59 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4499666152241036}
-  - component: {fileID: 114585239913704056}
-  - component: {fileID: 114980928925445564}
-  - component: {fileID: 114150596213065072}
-  - component: {fileID: 114031255128694970}
-  - component: {fileID: 114328242436828908}
-  - component: {fileID: 114042272864824978}
-  - component: {fileID: 114827421796334858}
-  - component: {fileID: 114587445875830450}
-  - component: {fileID: 114007333499030346}
-  - component: {fileID: 114621138354650576}
-  - component: {fileID: 114298621335605298}
-  - component: {fileID: 114243567833300550}
-  - component: {fileID: 114378496229304058}
-  - component: {fileID: 114115841663632738}
   - component: {fileID: 114900424132264840}
-  - component: {fileID: 114376983309840418}
-  - component: {fileID: 114318926915159216}
-  - component: {fileID: 114377876979726326}
-  - component: {fileID: 114971930544709816}
-  - component: {fileID: 114236345231702728}
-  - component: {fileID: 114972982458259872}
-  - component: {fileID: 114880869353176966}
-  - component: {fileID: 114329330569475826}
-  - component: {fileID: 114249573000613048}
-  - component: {fileID: 114470201480633468}
-  - component: {fileID: 114190349654610640}
-  - component: {fileID: 114618869171947650}
-  - component: {fileID: 114688944815958314}
-  - component: {fileID: 114612526147757640}
+  - component: {fileID: 114378496229304058}
   - component: {fileID: 114314065762754636}
-  - component: {fileID: 114433956404958044}
-  - component: {fileID: 114845201683890224}
-  - component: {fileID: 114534705881476146}
-  - component: {fileID: 114293321024858542}
-  - component: {fileID: 114934988290752838}
-  - component: {fileID: 114621862183728346}
-  - component: {fileID: 114978194044591024}
-  - component: {fileID: 114088843678940734}
-  - component: {fileID: 114960583973647434}
-  - component: {fileID: 114143519294854034}
-  - component: {fileID: 114654554287971044}
-  - component: {fileID: 114007226466739760}
-  - component: {fileID: 114868582489492006}
-  - component: {fileID: 114412521492893070}
-  - component: {fileID: 114982911464968962}
+  - component: {fileID: 114042272864824978}
+  - component: {fileID: 114621138354650576}
   - component: {fileID: 114932919828876856}
-  - component: {fileID: 114304748693073248}
-  - component: {fileID: 114478587167893012}
-  - component: {fileID: 114524797957262708}
+  - component: {fileID: 114318926915159216}
+  - component: {fileID: 114827421796334858}
+  - component: {fileID: 114236345231702728}
+  - component: {fileID: 114298621335605298}
+  - component: {fileID: 114982911464968962}
+  - component: {fileID: 114972982458259872}
+  - component: {fileID: 114376983309840418}
+  - component: {fileID: 114088843678940734}
+  - component: {fileID: 114433956404958044}
+  - component: {fileID: 114621862183728346}
+  - component: {fileID: 114980928925445564}
+  - component: {fileID: 114654554287971044}
   - component: {fileID: 114412300906762350}
-  - component: {fileID: 114266287897740986}
-  - component: {fileID: 114912796278184156}
+  - component: {fileID: 114534705881476146}
+  - component: {fileID: 114115841663632738}
+  - component: {fileID: 114960583973647434}
+  - component: {fileID: 114618869171947650}
+  - component: {fileID: 114304748693073248}
+  - component: {fileID: 114150596213065072}
+  - component: {fileID: 114688944815958314}
+  - component: {fileID: 114845201683890224}
+  - component: {fileID: 114868582489492006}
+  - component: {fileID: 114478587167893012}
+  - component: {fileID: 114880869353176966}
+  - component: {fileID: 114934988290752838}
   - component: {fileID: 114735324429878174}
+  - component: {fileID: 114031255128694970}
+  - component: {fileID: 114249573000613048}
+  - component: {fileID: 114587445875830450}
+  - component: {fileID: 114266287897740986}
+  - component: {fileID: 114585239913704056}
+  - component: {fileID: 114190349654610640}
+  - component: {fileID: 114328242436828908}
+  - component: {fileID: 114470201480633468}
+  - component: {fileID: 114007333499030346}
+  - component: {fileID: 114243567833300550}
+  - component: {fileID: 114377876979726326}
+  - component: {fileID: 114007226466739760}
+  - component: {fileID: 114412521492893070}
+  - component: {fileID: 114524797957262708}
+  - component: {fileID: 114143519294854034}
+  - component: {fileID: 114612526147757640}
+  - component: {fileID: 114978194044591024}
+  - component: {fileID: 114329330569475826}
+  - component: {fileID: 114971930544709816}
+  - component: {fileID: 114293321024858542}
+  - component: {fileID: 114912796278184156}
   - component: {fileID: 114962202689424972}
   - component: {fileID: 114428549868134290}
   - component: {fileID: 114183166123440494}
@@ -100,6 +100,7 @@ GameObject:
   - component: {fileID: 114196456529030092}
   - component: {fileID: 114519894298428074}
   - component: {fileID: 114734894147788264}
+  - component: {fileID: 65503295381198278}
   m_Layer: 0
   m_Name: Code
   m_TagString: Untagged
@@ -115,9 +116,15 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4198076219334994}
+  - component: {fileID: 114616954316665932}
+  - component: {fileID: 114816068660022566}
+  - component: {fileID: 114199024830293086}
+  - component: {fileID: 114101617375823694}
+  - component: {fileID: 114581273538567812}
   - component: {fileID: 33046914432394016}
   - component: {fileID: 23047359656358652}
   - component: {fileID: 65639985944275296}
+  - component: {fileID: 114309965497851934}
   m_Layer: 0
   m_Name: Alumno
   m_TagString: Untagged
@@ -208,6 +215,18 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1944261286059850}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!65 &65503295381198278
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1372898967632450}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3, y: 1, z: 3}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!65 &65639985944275296
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -587,6 +606,88 @@ MonoBehaviour:
   _showSettings: 1
   _actionsFoldout: 1
   _ignorePause: 0
+--- !u!114 &114101617375823694
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1944261286059850}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 280294710, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 0
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114581273538567812}
+  editor: {fileID: 0}
+  _id: Source
+  _dataType: 8
+  _typeName: UnityEngine.GameObject
+  _indirectDataType: 0
+  _indirectTypeName: 
+  _defaultStringValue: 
+  _defaultIntValue: 0
+  _defaultFloatValue: 0
+  _defaultBoolValue: 0
+  _defaultVector2Value: {x: 0, y: 0}
+  _defaultVector3Value: {x: 0, y: 0, z: 0}
+  _defaultVector4Value: {x: 0, y: 0, z: 0, w: 0}
+  _defaultRectValue:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _defaultColorValue: {r: 0, g: 0, b: 0, a: 0}
+  _defaultEnumIntValue: 0
+  _defaultBoundsValue:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  _defaultQuaternionValue: {x: 0, y: 0, z: 0, w: 0}
+  _stringValue: 
+  _intValue: 0
+  _floatValue: 0
+  _boolValue: 1
+  _vector2Value: {x: 0, y: 0}
+  _vector3Value: {x: 0, y: 0, z: 0}
+  _rectValue:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _colorValue: {r: 0, g: 0, b: 0, a: 1}
+  _objectValue: {fileID: 0}
+  _enumIntValue: 0
+  _enumCached: 0
+  _boundsValue:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  _quaternionValue: {x: 0, y: 0, z: 0, w: 1}
+  _vector4Value: {x: 0, y: 0, z: 0, w: 0}
+  _animationCurveValue:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _readOnly: 1
+  _private: 1
+  _persistent: 0
+  _indirect: 0
+  _isVariant: 0
+  _showDescription: 1
+  _description: The GameObject containing the Collider that originated the event.
+  _changeListeners: []
+  _hidden: 0
+  _display: 1
+  _label: Parameter
 --- !u!114 &114115841663632738
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -852,6 +953,89 @@ MonoBehaviour:
   - {fileID: 114318926915159216}
   _elseActions: []
   _elseVisible: 0
+--- !u!114 &114199024830293086
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1944261286059850}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 280294710, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 0
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114581273538567812}
+  editor: {fileID: 0}
+  _id: Other
+  _dataType: 8
+  _typeName: UnityEngine.GameObject
+  _indirectDataType: 0
+  _indirectTypeName: 
+  _defaultStringValue: 
+  _defaultIntValue: 0
+  _defaultFloatValue: 0
+  _defaultBoolValue: 0
+  _defaultVector2Value: {x: 0, y: 0}
+  _defaultVector3Value: {x: 0, y: 0, z: 0}
+  _defaultVector4Value: {x: 0, y: 0, z: 0, w: 0}
+  _defaultRectValue:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _defaultColorValue: {r: 0, g: 0, b: 0, a: 0}
+  _defaultEnumIntValue: 0
+  _defaultBoundsValue:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  _defaultQuaternionValue: {x: 0, y: 0, z: 0, w: 0}
+  _stringValue: 
+  _intValue: 0
+  _floatValue: 0
+  _boolValue: 1
+  _vector2Value: {x: 0, y: 0}
+  _vector3Value: {x: 0, y: 0, z: 0}
+  _rectValue:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _colorValue: {r: 0, g: 0, b: 0, a: 1}
+  _objectValue: {fileID: 0}
+  _enumIntValue: 0
+  _enumCached: 0
+  _boundsValue:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  _quaternionValue: {x: 0, y: 0, z: 0, w: 1}
+  _vector4Value: {x: 0, y: 0, z: 0, w: 0}
+  _animationCurveValue:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _readOnly: 1
+  _private: 1
+  _persistent: 0
+  _indirect: 0
+  _isVariant: 0
+  _showDescription: 1
+  _description: The GameObject containing the Collider or Rigidbody that touched the
+    <Source> trigger Collider.
+  _changeListeners: []
+  _hidden: 0
+  _display: 1
+  _label: Parameter
 --- !u!114 &114236345231702728
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1139,6 +1323,29 @@ MonoBehaviour:
   _hidden: 0
   _display: 1
   _label: Check3
+--- !u!114 &114309965497851934
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1944261286059850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1528663654, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _blocks:
+  - {fileID: 114581273538567812}
+  editor: {fileID: 0}
+  _showSettings: 0
+  _displayMode: 0
+  _windowTitle: GameFlow
+  _windowMinSize: {x: 240, y: 64}
+  _windowMaxSize: {x: 600, y: 400}
 --- !u!114 &114314065762754636
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1850,6 +2057,40 @@ MonoBehaviour:
   _messageTypeVar: {fileID: 0}
   _message: 
   _messageVar: {fileID: 114007226466739760}
+--- !u!114 &114581273538567812
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1944261286059850}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 241160318, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 1
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114309965497851934}
+  editor: {fileID: 0}
+  _id: On Trigger Stay
+  _actions:
+  - {fileID: 114816068660022566}
+  - {fileID: 114616954316665932}
+  _parameters:
+  - {fileID: 114101617375823694}
+  - {fileID: 114199024830293086}
+  _showParameters: 0
+  _showSettings: 1
+  _actionsFoldout: 1
+  _ignorePause: 0
+  _listeningRange: 0
+  _listeningTarget: {fileID: 1372898967632450}
+  _listeningList: {fileID: 0}
 --- !u!114 &114585239913704056
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1977,6 +2218,30 @@ MonoBehaviour:
   _vector4Value: {x: 0, y: 0, z: 0, w: 0}
   _valueVar: {fileID: 114007226466739760}
   _caseSensitive: 1
+--- !u!114 &114616954316665932
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1944261286059850}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1781552213, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 1
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114581273538567812}
+  editor: {fileID: 0}
+  _caption: Start Program
+  _breakpoint: 0
+  _target: {fileID: 114980928925445564}
+  _targetVar: {fileID: 0}
 --- !u!114 &114618869171947650
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -2323,6 +2588,30 @@ MonoBehaviour:
   _codeVar: {fileID: 0}
   _enabledInPause: 0
   _enabledInPauseVar: {fileID: 0}
+--- !u!114 &114816068660022566
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1944261286059850}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1781552213, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 1
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114581273538567812}
+  editor: {fileID: 0}
+  _caption: Start Program
+  _breakpoint: 0
+  _target: {fileID: 114880869353176966}
+  _targetVar: {fileID: 0}
 --- !u!114 &114827421796334858
 MonoBehaviour:
   m_ObjectHideFlags: 3
