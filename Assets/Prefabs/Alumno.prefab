@@ -79,20 +79,21 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4717471470088516}
-  - component: {fileID: 114058054424076562}
-  - component: {fileID: 114010200646881868}
-  - component: {fileID: 114245836292604074}
-  - component: {fileID: 114940222006218870}
-  - component: {fileID: 114007911271056194}
-  - component: {fileID: 114612313670626018}
-  - component: {fileID: 114677116681755098}
-  - component: {fileID: 114780304597360204}
-  - component: {fileID: 114954408895754606}
-  - component: {fileID: 114440997230098812}
-  - component: {fileID: 114855350985658148}
-  - component: {fileID: 114187954630319042}
-  - component: {fileID: 114113419486929468}
   - component: {fileID: 114192635307284106}
+  - component: {fileID: 114245836292604074}
+  - component: {fileID: 114010200646881868}
+  - component: {fileID: 114612313670626018}
+  - component: {fileID: 114780304597360204}
+  - component: {fileID: 114058054424076562}
+  - component: {fileID: 114007911271056194}
+  - component: {fileID: 114187954630319042}
+  - component: {fileID: 114954408895754606}
+  - component: {fileID: 114940222006218870}
+  - component: {fileID: 114346125663765296}
+  - component: {fileID: 114113419486929468}
+  - component: {fileID: 114855350985658148}
+  - component: {fileID: 114677116681755098}
+  - component: {fileID: 114440997230098812}
   - component: {fileID: 114019007852561316}
   - component: {fileID: 65961498429345364}
   m_Layer: 0
@@ -110,93 +111,97 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4499666152241036}
-  - component: {fileID: 114304748693073248}
-  - component: {fileID: 114982911464968962}
-  - component: {fileID: 114329330569475826}
-  - component: {fileID: 114735801388930416}
-  - component: {fileID: 114412300906762350}
-  - component: {fileID: 114639259032772968}
-  - component: {fileID: 114376983309840418}
-  - component: {fileID: 114932919828876856}
-  - component: {fileID: 114897854960925504}
-  - component: {fileID: 114618869171947650}
-  - component: {fileID: 114206503982260978}
-  - component: {fileID: 114654554287971044}
-  - component: {fileID: 114621138354650576}
-  - component: {fileID: 114355611275859774}
-  - component: {fileID: 114031255128694970}
-  - component: {fileID: 114318926915159216}
-  - component: {fileID: 114298621335605298}
-  - component: {fileID: 114603958483504286}
-  - component: {fileID: 114243567833300550}
-  - component: {fileID: 114248706319531878}
-  - component: {fileID: 114364746212550432}
-  - component: {fileID: 114971930544709816}
-  - component: {fileID: 114928874899457120}
-  - component: {fileID: 114088843678940734}
-  - component: {fileID: 114249573000613048}
-  - component: {fileID: 114574904563765044}
-  - component: {fileID: 114115841663632738}
-  - component: {fileID: 114109763008211580}
-  - component: {fileID: 114050787409697496}
-  - component: {fileID: 114109723239212198}
-  - component: {fileID: 114266287897740986}
-  - component: {fileID: 114415224060415028}
-  - component: {fileID: 114742047066871234}
   - component: {fileID: 114912435134430226}
-  - component: {fileID: 114433956404958044}
-  - component: {fileID: 114608590735381780}
-  - component: {fileID: 114150596213065072}
-  - component: {fileID: 114972982458259872}
-  - component: {fileID: 114007226466739760}
-  - component: {fileID: 114612526147757640}
-  - component: {fileID: 114315735351007114}
-  - component: {fileID: 114017653409556310}
-  - component: {fileID: 114190349654610640}
-  - component: {fileID: 114981763746728534}
-  - component: {fileID: 114688944815958314}
-  - component: {fileID: 114121682489090426}
-  - component: {fileID: 114761630239177958}
-  - component: {fileID: 114868582489492006}
-  - component: {fileID: 114293321024858542}
-  - component: {fileID: 114378496229304058}
-  - component: {fileID: 114412521492893070}
-  - component: {fileID: 114084462687319908}
-  - component: {fileID: 114621862183728346}
-  - component: {fileID: 114934988290752838}
-  - component: {fileID: 114947535399348094}
-  - component: {fileID: 114121362099879648}
-  - component: {fileID: 114912796278184156}
-  - component: {fileID: 114827421796334858}
-  - component: {fileID: 114545028487359038}
-  - component: {fileID: 114851688892269888}
-  - component: {fileID: 114470201480633468}
-  - component: {fileID: 114213046597511146}
-  - component: {fileID: 114478587167893012}
-  - component: {fileID: 114367462678096200}
+  - component: {fileID: 114742047066871234}
+  - component: {fileID: 114364746212550432}
+  - component: {fileID: 114236345231702728}
+  - component: {fileID: 114801805216251646}
   - component: {fileID: 114377876979726326}
+  - component: {fileID: 114007333499030346}
+  - component: {fileID: 114621862183728346}
+  - component: {fileID: 114298621335605298}
+  - component: {fileID: 114897854960925504}
+  - component: {fileID: 114612526147757640}
+  - component: {fileID: 114243567833300550}
+  - component: {fileID: 114735324429878174}
+  - component: {fileID: 114470201480633468}
+  - component: {fileID: 114109723239212198}
+  - component: {fileID: 114050787409697496}
+  - component: {fileID: 114539276527962074}
+  - component: {fileID: 114900424132264840}
+  - component: {fileID: 114315735351007114}
+  - component: {fileID: 114555715432684940}
+  - component: {fileID: 114403275034914102}
+  - component: {fileID: 114688944815958314}
+  - component: {fileID: 114534705881476146}
+  - component: {fileID: 114574904563765044}
+  - component: {fileID: 114587445875830450}
+  - component: {fileID: 114378496229304058}
+  - component: {fileID: 114143519294854034}
+  - component: {fileID: 114866388979917630}
+  - component: {fileID: 114603958483504286}
+  - component: {fileID: 114947535399348094}
+  - component: {fileID: 114545028487359038}
   - component: {fileID: 114314065762754636}
+  - component: {fileID: 114845201683890224}
   - component: {fileID: 114585239913704056}
-  - component: {fileID: 114960583973647434}
+  - component: {fileID: 114206503982260978}
+  - component: {fileID: 114885734800825240}
+  - component: {fileID: 114121362099879648}
+  - component: {fileID: 114213046597511146}
+  - component: {fileID: 114972982458259872}
+  - component: {fileID: 114150596213065072}
+  - component: {fileID: 114109763008211580}
+  - component: {fileID: 114986367695297834}
+  - component: {fileID: 114121682489090426}
+  - component: {fileID: 114735801388930416}
+  - component: {fileID: 114982911464968962}
+  - component: {fileID: 114433956404958044}
+  - component: {fileID: 114007226466739760}
+  - component: {fileID: 114868582489492006}
+  - component: {fileID: 114318926915159216}
+  - component: {fileID: 114912796278184156}
+  - component: {fileID: 114248706319531878}
+  - component: {fileID: 114478587167893012}
+  - component: {fileID: 114031255128694970}
+  - component: {fileID: 114017653409556310}
+  - component: {fileID: 114928874899457120}
+  - component: {fileID: 114412300906762350}
+  - component: {fileID: 114329330569475826}
+  - component: {fileID: 114115841663632738}
+  - component: {fileID: 114355611275859774}
+  - component: {fileID: 114761630239177958}
   - component: {fileID: 114524797957262708}
   - component: {fileID: 114571830325401040}
-  - component: {fileID: 114986367695297834}
-  - component: {fileID: 114900424132264840}
-  - component: {fileID: 114845201683890224}
+  - component: {fileID: 114654554287971044}
   - component: {fileID: 114880869353176966}
-  - component: {fileID: 114885734800825240}
-  - component: {fileID: 114652473344373904}
-  - component: {fileID: 114007333499030346}
-  - component: {fileID: 114236345231702728}
-  - component: {fileID: 114539276527962074}
-  - component: {fileID: 114735324429878174}
-  - component: {fileID: 114801805216251646}
-  - component: {fileID: 114042272864824978}
-  - component: {fileID: 114587445875830450}
-  - component: {fileID: 114534705881476146}
+  - component: {fileID: 114971930544709816}
+  - component: {fileID: 114639259032772968}
   - component: {fileID: 114978194044591024}
+  - component: {fileID: 114088843678940734}
+  - component: {fileID: 114618869171947650}
+  - component: {fileID: 114304748693073248}
+  - component: {fileID: 114415224060415028}
+  - component: {fileID: 114621138354650576}
+  - component: {fileID: 114266287897740986}
+  - component: {fileID: 114249573000613048}
+  - component: {fileID: 114084462687319908}
+  - component: {fileID: 114527342676501842}
+  - component: {fileID: 114960583973647434}
+  - component: {fileID: 114293321024858542}
+  - component: {fileID: 114376983309840418}
+  - component: {fileID: 114367462678096200}
+  - component: {fileID: 114934988290752838}
+  - component: {fileID: 114042272864824978}
   - component: {fileID: 114328242436828908}
-  - component: {fileID: 114143519294854034}
+  - component: {fileID: 114932919828876856}
+  - component: {fileID: 114608590735381780}
+  - component: {fileID: 114652473344373904}
+  - component: {fileID: 114981763746728534}
+  - component: {fileID: 114412521492893070}
+  - component: {fileID: 114190349654610640}
+  - component: {fileID: 114827421796334858}
+  - component: {fileID: 114851688892269888}
   - component: {fileID: 114962202689424972}
   - component: {fileID: 114428549868134290}
   - component: {fileID: 114183166123440494}
@@ -782,6 +787,7 @@ MonoBehaviour:
   - {fileID: 114113419486929468}
   - {fileID: 114245836292604074}
   - {fileID: 114010200646881868}
+  - {fileID: 114346125663765296}
   editor: {fileID: 0}
   _showSettings: 0
   _displayMode: 0
@@ -1075,14 +1081,14 @@ MonoBehaviour:
   _reset: 0
   _version: 1.1
   _moved: 0
-  _foldout: 0
+  _foldout: 1
   _drawSeparator: 0
   enabledInEditor: 1
   container: {fileID: 114019007852561316}
   editor: {fileID: 0}
-  _id: K2String
-  _dataType: 0
-  _typeName: 
+  _id: K2Image
+  _dataType: 8
+  _typeName: UnityEngine.GameObject
   _indirectDataType: 0
   _indirectTypeName: 
   _defaultStringValue: 
@@ -1386,7 +1392,7 @@ MonoBehaviour:
   _reset: 0
   _version: 1.1
   _moved: 0
-  _foldout: 1
+  _foldout: 0
   _drawSeparator: 0
   enabledInEditor: 1
   container: {fileID: 114367462678096200}
@@ -1433,14 +1439,14 @@ MonoBehaviour:
   _reset: 0
   _version: 1.1
   _moved: 0
-  _foldout: 0
+  _foldout: 1
   _drawSeparator: 0
   enabledInEditor: 1
   container: {fileID: 114019007852561316}
   editor: {fileID: 0}
-  _id: K4String
-  _dataType: 0
-  _typeName: 
+  _id: K4Image
+  _dataType: 8
+  _typeName: UnityEngine.GameObject
   _indirectDataType: 0
   _indirectTypeName: 
   _defaultStringValue: 
@@ -1591,7 +1597,7 @@ MonoBehaviour:
   editor: {fileID: 0}
   _caption: GetItem2
   _breakpoint: 0
-  _list: {fileID: 114245836292604074}
+  _list: {fileID: 114346125663765296}
   _listVar: {fileID: 0}
   _index: 0
   _indexVar: {fileID: 114187954630319042}
@@ -2141,7 +2147,7 @@ MonoBehaviour:
   _reset: 0
   _version: 1.1
   _moved: 0
-  _foldout: 1
+  _foldout: 0
   _drawSeparator: 0
   enabledInEditor: 1
   container: {fileID: 114367462678096200}
@@ -2380,7 +2386,7 @@ MonoBehaviour:
   _moved: 0
   _foldout: 0
   _drawSeparator: 0
-  enabledInEditor: 1
+  enabledInEditor: 0
   container: {fileID: 114801805216251646}
   editor: {fileID: 0}
   _caption: Add To String
@@ -2883,7 +2889,7 @@ MonoBehaviour:
   editor: {fileID: 0}
   _caption: GetItem3
   _breakpoint: 0
-  _list: {fileID: 114245836292604074}
+  _list: {fileID: 114346125663765296}
   _listVar: {fileID: 0}
   _index: 0
   _indexVar: {fileID: 114192635307284106}
@@ -3095,6 +3101,59 @@ MonoBehaviour:
   - {fileID: 114334543031162498}
   _elseActions: []
   _elseVisible: 0
+--- !u!114 &114346125663765296
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1180613692621542}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1555730951, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 1
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114019007852561316}
+  editor: {fileID: 0}
+  _id: Lista Imagenes
+  _typeName: UnityEngine.GameObject
+  _dataType: 8
+  _stringValues: []
+  _intValues: 
+  _floatValues: []
+  _vector2Values: []
+  _vector3Values: []
+  _vector4Values: []
+  _rectValues: []
+  _colorValues: []
+  _objectValues:
+  - {fileID: 1034925379020738, guid: 39b9ad2af78d1f64a91010d276e3308f, type: 2}
+  - {fileID: 1400018171860194, guid: a9940a47a77cba94784a4f9ce26fc9c8, type: 2}
+  - {fileID: 1735215567908498, guid: ec133a0beac2ce64397293fab3b53a32, type: 2}
+  - {fileID: 1810238331687188, guid: 8d9fccfceb0a6684da05bc62a0e02e1c, type: 2}
+  _boundsValues: []
+  _curveValues: []
+  _quaternionValues: []
+  _variables:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _persistent: 0
+  _titleFoldout: 1
+  _itemsFoldout: 1
+  _resetPerformed: 0
+  _unfocus: 0
+  _showDescription: 0
+  _title: KeyImages
+  _display: 1
+  _description: <Description>
 --- !u!114 &114347470045186624
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -3187,7 +3246,7 @@ MonoBehaviour:
   _moved: 0
   _foldout: 0
   _drawSeparator: 0
-  enabledInEditor: 1
+  enabledInEditor: 0
   container: {fileID: 114801805216251646}
   editor: {fileID: 0}
   _caption: Add To String
@@ -3212,7 +3271,7 @@ MonoBehaviour:
   _reset: 0
   _version: 1.1
   _moved: 0
-  _foldout: 1
+  _foldout: 0
   _drawSeparator: 0
   enabledInEditor: 1
   container: {fileID: 114734894147788264}
@@ -3657,6 +3716,41 @@ MonoBehaviour:
   _listeningRange: 0
   _listeningTarget: {fileID: 1180613692621542}
   _listeningList: {fileID: 0}
+--- !u!114 &114403275034914102
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1372898967632450}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 879294148, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 1
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114801805216251646}
+  editor: {fileID: 0}
+  _caption: InstantiateK2
+  _breakpoint: 0
+  _output: {fileID: 0}
+  _original: {fileID: 0}
+  _originalVar: {fileID: 114058054424076562}
+  _positioning: 1
+  _positioningVar: {fileID: 0}
+  _positionType: 0
+  _position: {x: 0, y: 0, z: 10}
+  _positionVar: {fileID: 0}
+  _transform: {fileID: 0}
+  _transformVar: {fileID: 0}
+  _space: 0
+  _relative: 1
+  _activate: 1
 --- !u!114 &114412300906762350
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -3778,7 +3872,7 @@ MonoBehaviour:
   _moved: 0
   _foldout: 0
   _drawSeparator: 0
-  enabledInEditor: 1
+  enabledInEditor: 0
   container: {fileID: 114801805216251646}
   editor: {fileID: 0}
   _caption: Add To String
@@ -4324,6 +4418,41 @@ MonoBehaviour:
   _hidden: 0
   _display: 1
   _label: Check1
+--- !u!114 &114527342676501842
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1372898967632450}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 879294148, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 1
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114801805216251646}
+  editor: {fileID: 0}
+  _caption: InstantiateK4
+  _breakpoint: 0
+  _output: {fileID: 0}
+  _original: {fileID: 0}
+  _originalVar: {fileID: 114113419486929468}
+  _positioning: 1
+  _positioningVar: {fileID: 0}
+  _positionType: 0
+  _position: {x: 0, y: 0, z: 30}
+  _positionVar: {fileID: 0}
+  _transform: {fileID: 0}
+  _transformVar: {fileID: 0}
+  _space: 0
+  _relative: 1
+  _activate: 1
 --- !u!114 &114528296638528560
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -4394,7 +4523,7 @@ MonoBehaviour:
   _reset: 0
   _version: 1.1
   _moved: 0
-  _foldout: 1
+  _foldout: 0
   _drawSeparator: 0
   enabledInEditor: 1
   container: {fileID: 114367462678096200}
@@ -4420,7 +4549,7 @@ MonoBehaviour:
   _moved: 0
   _foldout: 0
   _drawSeparator: 0
-  enabledInEditor: 1
+  enabledInEditor: 0
   container: {fileID: 114801805216251646}
   editor: {fileID: 0}
   _caption: Set Text Property
@@ -4446,6 +4575,41 @@ MonoBehaviour:
   _valueVar: {fileID: 114742047066871234}
   _format: 
   _formatVar: {fileID: 0}
+--- !u!114 &114555715432684940
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1372898967632450}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 879294148, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 1
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114801805216251646}
+  editor: {fileID: 0}
+  _caption: InstantiateK3
+  _breakpoint: 0
+  _output: {fileID: 0}
+  _original: {fileID: 0}
+  _originalVar: {fileID: 114612313670626018}
+  _positioning: 1
+  _positioningVar: {fileID: 0}
+  _positionType: 0
+  _position: {x: 0, y: 0, z: 20}
+  _positionVar: {fileID: 0}
+  _transform: {fileID: 0}
+  _transformVar: {fileID: 0}
+  _space: 0
+  _relative: 1
+  _activate: 1
 --- !u!114 &114571830325401040
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -4541,14 +4705,14 @@ MonoBehaviour:
   _reset: 0
   _version: 1.1
   _moved: 0
-  _foldout: 0
+  _foldout: 1
   _drawSeparator: 0
   enabledInEditor: 1
   container: {fileID: 114801805216251646}
   editor: {fileID: 0}
   _caption: GetItem1
   _breakpoint: 0
-  _list: {fileID: 114245836292604074}
+  _list: {fileID: 114346125663765296}
   _listVar: {fileID: 0}
   _index: 0
   _indexVar: {fileID: 114677116681755098}
@@ -4728,7 +4892,7 @@ MonoBehaviour:
   _moved: 0
   _foldout: 0
   _drawSeparator: 0
-  enabledInEditor: 1
+  enabledInEditor: 0
   container: {fileID: 114801805216251646}
   editor: {fileID: 0}
   _caption: Add To String
@@ -4828,14 +4992,14 @@ MonoBehaviour:
   _reset: 0
   _version: 1.1
   _moved: 0
-  _foldout: 0
+  _foldout: 1
   _drawSeparator: 0
   enabledInEditor: 1
   container: {fileID: 114019007852561316}
   editor: {fileID: 0}
-  _id: K3String
-  _dataType: 0
-  _typeName: 
+  _id: K3Image
+  _dataType: 8
+  _typeName: UnityEngine.GameObject
   _indirectDataType: 0
   _indirectTypeName: 
   _defaultStringValue: 
@@ -5909,7 +6073,7 @@ MonoBehaviour:
   editor: {fileID: 0}
   _caption: GetItem4
   _breakpoint: 0
-  _list: {fileID: 114245836292604074}
+  _list: {fileID: 114346125663765296}
   _listVar: {fileID: 0}
   _index: 0
   _indexVar: {fileID: 114855350985658148}
@@ -6158,14 +6322,14 @@ MonoBehaviour:
   _reset: 0
   _version: 1.1
   _moved: 0
-  _foldout: 0
+  _foldout: 1
   _drawSeparator: 0
   enabledInEditor: 1
   container: {fileID: 114019007852561316}
   editor: {fileID: 0}
-  _id: K1String
-  _dataType: 0
-  _typeName: 
+  _id: K1Image
+  _dataType: 8
+  _typeName: UnityEngine.GameObject
   _indirectDataType: 0
   _indirectTypeName: 
   _defaultStringValue: 
@@ -6386,6 +6550,10 @@ MonoBehaviour:
   - {fileID: 114845201683890224}
   - {fileID: 114433956404958044}
   - {fileID: 114314065762754636}
+  - {fileID: 114866388979917630}
+  - {fileID: 114403275034914102}
+  - {fileID: 114555715432684940}
+  - {fileID: 114527342676501842}
   _parameters: []
   _showParameters: 0
   _showSettings: 1
@@ -6836,6 +7004,41 @@ MonoBehaviour:
   - {fileID: 114418001641113926}
   _elseActions: []
   _elseVisible: 0
+--- !u!114 &114866388979917630
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1372898967632450}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 879294148, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 1
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114801805216251646}
+  editor: {fileID: 0}
+  _caption: InstantiateK1
+  _breakpoint: 0
+  _output: {fileID: 0}
+  _original: {fileID: 0}
+  _originalVar: {fileID: 114780304597360204}
+  _positioning: 1
+  _positioningVar: {fileID: 0}
+  _positionType: 0
+  _position: {x: 0, y: 0, z: 0}
+  _positionVar: {fileID: 0}
+  _transform: {fileID: 0}
+  _transformVar: {fileID: 0}
+  _space: 0
+  _relative: 1
+  _activate: 1
 --- !u!114 &114868582489492006
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -6990,7 +7193,7 @@ MonoBehaviour:
   _reset: 0
   _version: 1.1
   _moved: 0
-  _foldout: 1
+  _foldout: 0
   _drawSeparator: 0
   enabledInEditor: 1
   container: {fileID: 114367462678096200}
@@ -7899,7 +8102,7 @@ MonoBehaviour:
   _reset: 0
   _version: 1.1
   _moved: 0
-  _foldout: 0
+  _foldout: 1
   _drawSeparator: 0
   enabledInEditor: 1
   container: {fileID: 114801805216251646}
