@@ -1,15 +1,16 @@
 fileFormatVersion: 2
-guid: 3b44da8e596699f428a6a37a538057a3
+guid: ea391a296119270489ad31a2a9966598
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: lambert1
+    2100000: lambert3
+    2100002: lambert4
     2300000: //RootNode
     3300000: //RootNode
-    4300000: pCube34
-    4300002: LibreroCerrado
+    4300000: Body2
+    4300002: Whodini
   externalObjects: {}
   materials:
     importMaterials: 1

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3b44da8e596699f428a6a37a538057a3
+guid: 46c80ae471a4bac4da5df0a5bf53e9ca
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,8 +8,7 @@ ModelImporter:
     2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: pCube34
-    4300002: LibreroCerrado
+    4300000: Escritorio01
   externalObjects: {}
   materials:
     importMaterials: 1

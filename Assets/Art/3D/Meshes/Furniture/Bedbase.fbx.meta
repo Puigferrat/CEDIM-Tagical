@@ -33,6 +33,7 @@ ModelImporter:
     2300012: pCube52
     2300014: pCube53
     2300016: pCylinder5
+    2300018: //RootNode
     3300000: pCube25
     3300002: pCube26
     3300004: pCube27
@@ -42,6 +43,7 @@ ModelImporter:
     3300012: pCube52
     3300014: pCube53
     3300016: pCylinder5
+    3300018: //RootNode
     4300000: pCube25
     4300002: pCube26
     4300004: pCube27
@@ -51,6 +53,7 @@ ModelImporter:
     4300012: pCube51
     4300014: pCube52
     4300016: pCube53
+    4300018: Cama
   externalObjects: {}
   materials:
     importMaterials: 1

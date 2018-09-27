@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3b44da8e596699f428a6a37a538057a3
+guid: 8f854b037d278fa42b1fc78ed693e683
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,8 +8,7 @@ ModelImporter:
     2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: pCube34
-    4300002: LibreroCerrado
+    4300000: Closet
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -60,7 +59,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 0
+    useFileScale: 1
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
