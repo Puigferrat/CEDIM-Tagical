@@ -38,6 +38,7 @@ ModelImporter:
     400030: polySurface31
     400032: polySurface32
     2100000: lambert4
+    2100002: lambert3
     2300000: polySurface17
     2300002: polySurface18
     2300004: polySurface19
@@ -54,6 +55,7 @@ ModelImporter:
     2300026: polySurface30
     2300028: polySurface31
     2300030: polySurface32
+    2300032: //RootNode
     3300000: polySurface17
     3300002: polySurface18
     3300004: polySurface19
@@ -70,6 +72,7 @@ ModelImporter:
     3300026: polySurface30
     3300028: polySurface31
     3300030: polySurface32
+    3300032: //RootNode
     4300000: polySurface17
     4300002: polySurface18
     4300004: polySurface19
@@ -86,6 +89,7 @@ ModelImporter:
     4300026: polySurface30
     4300028: polySurface31
     4300030: polySurface32
+    4300032: Flores
   externalObjects: {}
   materials:
     importMaterials: 1

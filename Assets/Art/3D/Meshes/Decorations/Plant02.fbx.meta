@@ -60,6 +60,7 @@ ModelImporter:
     400052: pPlane35
     400054: pSphere2
     2100000: lambert3
+    2100002: lambert4
     2300000: pCube39
     2300002: pCube40
     2300004: pCube41
@@ -86,6 +87,7 @@ ModelImporter:
     2300046: pPlane34
     2300048: pPlane35
     2300050: pSphere2
+    2300052: //RootNode
     3300000: pCube39
     3300002: pCube40
     3300004: pCube41
@@ -112,6 +114,7 @@ ModelImporter:
     3300046: pPlane34
     3300048: pPlane35
     3300050: pSphere2
+    3300052: //RootNode
     4300000: polySurface33
     4300002: pSphere2
     4300004: pCylinder30
@@ -138,6 +141,7 @@ ModelImporter:
     4300046: polySurface558
     4300048: polySurface559
     4300050: polySurface560
+    4300052: Cactus
   externalObjects: {}
   materials:
     importMaterials: 1
