@@ -4,20 +4,10 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: estandarte1
-    100004: pCube9
-    100006: pCylinder1
-    100008: transform5
-    100010: transform6
     400000: //RootNode
-    400002: estandarte1
-    400004: pCube9
-    400006: pCylinder1
-    400008: transform5
-    400010: transform6
     2100000: lambert1
-    2300000: estandarte1
-    3300000: estandarte1
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: estandarte1
   externalObjects: {}
   materials:
