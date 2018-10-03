@@ -4,12 +4,45 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Cajon01
+    100004: Cajon02
+    100006: Cajon03
+    100008: Escritorio01
+    100010: polySurface1
     400000: //RootNode
+    400002: Cajon01
+    400004: Cajon02
+    400006: Cajon03
+    400008: Escritorio01
+    400010: polySurface1
     2100000: lambert1
+    2100002: lambert2
     2300000: //RootNode
+    2300002: Cajon01
+    2300004: Cajon02
+    2300006: Cajon03
+    2300008: polySurface1
     3300000: //RootNode
+    3300002: Cajon01
+    3300004: Cajon02
+    3300006: Cajon03
+    3300008: polySurface1
     4300000: Escritorio01
-  externalObjects: {}
+    4300002: polySurface1
+    4300004: Cajon03
+    4300006: Cajon01
+    4300008: Cajon02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 26bacd237a3a9e24f959d1e365b951fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 3fcd9532d21a92b4cb61ea52823bd09f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

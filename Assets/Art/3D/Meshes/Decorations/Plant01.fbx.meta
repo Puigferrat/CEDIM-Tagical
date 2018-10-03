@@ -86,7 +86,12 @@ ModelImporter:
     4300026: polySurface556
     4300028: polySurface557
     4300030: Helecho
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: e616a8720a281324c8c2030c560961fb, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

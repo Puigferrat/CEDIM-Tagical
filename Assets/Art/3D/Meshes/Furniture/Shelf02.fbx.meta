@@ -10,7 +10,13 @@ ModelImporter:
     3300000: //RootNode
     4300000: pCube50
     4300002: LibreroAbierto
-  externalObjects: {}
+    4300004: LibreroCerrado
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: aed9f09186f176a4db272bce0d3ac4c3, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

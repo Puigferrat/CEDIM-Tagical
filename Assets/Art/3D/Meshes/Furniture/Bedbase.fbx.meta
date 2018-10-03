@@ -54,7 +54,12 @@ ModelImporter:
     4300014: pCube52
     4300016: pCube53
     4300018: Cama
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: ba3786707e0e3ef4e9d28678172ff7c7, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

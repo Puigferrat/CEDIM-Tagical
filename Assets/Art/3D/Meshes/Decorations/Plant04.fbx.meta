@@ -855,7 +855,12 @@ ModelImporter:
     4300332: polySurface509
     4300334: polySurface510
     4300336: Carnivora
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 89c5ca03fbbee6e498d4ccef267c7ace, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
