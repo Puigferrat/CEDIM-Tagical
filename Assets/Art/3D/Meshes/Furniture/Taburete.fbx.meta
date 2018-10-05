@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8c1e21fa497f4e540a9f02ca907ef7b2
+guid: 43d9425dbe315ee4897f1a12634d1c36
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,8 +8,13 @@ ModelImporter:
     2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Taburete
-  externalObjects: {}
+    4300000: Taburete:Taburete
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 948e32c02c27b7a4b924547556bb4e5c, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -59,7 +64,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 0
+    useFileScale: 1
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:

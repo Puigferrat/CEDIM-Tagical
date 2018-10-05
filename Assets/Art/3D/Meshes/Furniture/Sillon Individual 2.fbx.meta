@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0566bc95b4f66b143b5b7720282709e2
+guid: 232724df72aef90498a0278ffbe90635
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,8 +8,13 @@ ModelImporter:
     2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Sillon_Individual_2
-  externalObjects: {}
+    4300000: Sillon_Individual_2:Sillon_Individual_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 2760467552c398540bc608a27c874df6, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -59,7 +64,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 0
+    useFileScale: 1
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:

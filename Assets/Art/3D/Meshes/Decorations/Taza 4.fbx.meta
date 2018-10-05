@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0014e514e24328c4b91a9b351ae3251b
+guid: 45d017ab038cc1849be44351d5ed558b
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,8 +8,13 @@ ModelImporter:
     2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: pCylinder2
-  externalObjects: {}
+    4300000: Taza_4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 5ac81a4b5d14b6d44bed17046991b0ff, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -59,7 +64,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 0
+    useFileScale: 1
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:

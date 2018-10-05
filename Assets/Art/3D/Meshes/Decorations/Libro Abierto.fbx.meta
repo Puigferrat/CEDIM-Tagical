@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e3be50d110f6caf4fb1a89818ac7ca9a
+guid: b19f0f8e24b24e7459b87410c872142b
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,8 +8,13 @@ ModelImporter:
     2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Libro_Abierto
-  externalObjects: {}
+    4300000: Libro_Abierto:Libro_Abierto
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 5e700f4e9ed1fc747be31e90fce2065b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -59,7 +64,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 0
+    useFileScale: 1
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
