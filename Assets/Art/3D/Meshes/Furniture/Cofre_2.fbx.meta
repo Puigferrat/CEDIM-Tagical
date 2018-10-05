@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8fcbf6fcf0574a844bdcedd8b198d8f6
+guid: d770b1a48d8822142acd49b1f71adb5d
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -9,7 +9,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: Cofre_2
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 8cd8b5ccbed8b88469da87339a4c491f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
