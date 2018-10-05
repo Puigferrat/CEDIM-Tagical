@@ -8,8 +8,13 @@ ModelImporter:
     2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Gema6
-  externalObjects: {}
+    4300000: gema1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 2f78dca8d83990849bdd13692e893461, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
