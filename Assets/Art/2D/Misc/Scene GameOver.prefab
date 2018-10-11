@@ -19,8 +19,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4538943323255666}
-  - component: {fileID: 114969370380965898}
   - component: {fileID: 114222100046875608}
+  - component: {fileID: 114969370380965898}
   - component: {fileID: 114870257982780130}
   - component: {fileID: 114232370864728544}
   m_Layer: 0
@@ -66,7 +66,7 @@ MonoBehaviour:
   _caption: Get Scene Property
   _breakpoint: 0
   _output: {fileID: 114969370380965898}
-  _property: 1
+  _property: 0
 --- !u!114 &114232370864728544
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -140,7 +140,7 @@ MonoBehaviour:
   container: {fileID: 114232370864728544}
   editor: {fileID: 0}
   _id: GameOver scene Index
-  _dataType: 0
+  _dataType: 1
   _typeName: 
   _indirectDataType: 0
   _indirectTypeName: 
@@ -163,7 +163,7 @@ MonoBehaviour:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   _defaultQuaternionValue: {x: 0, y: 0, z: 0, w: 0}
-  _stringValue: GameOver
+  _stringValue: 0
   _intValue: 0
   _floatValue: 0
   _boolValue: 1
