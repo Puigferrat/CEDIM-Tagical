@@ -2899,6 +2899,46 @@ Prefab:
       propertyPath: _foldout
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114007911271056194, guid: 097a4c5a7d49b1e48a44429901c486cc,
+        type: 2}
+      propertyPath: _foldout
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114007911271056194, guid: 097a4c5a7d49b1e48a44429901c486cc,
+        type: 2}
+      propertyPath: editor
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 114440997230098812, guid: 097a4c5a7d49b1e48a44429901c486cc,
+        type: 2}
+      propertyPath: _foldout
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114440997230098812, guid: 097a4c5a7d49b1e48a44429901c486cc,
+        type: 2}
+      propertyPath: editor
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 114954408895754606, guid: 097a4c5a7d49b1e48a44429901c486cc,
+        type: 2}
+      propertyPath: _foldout
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114954408895754606, guid: 097a4c5a7d49b1e48a44429901c486cc,
+        type: 2}
+      propertyPath: editor
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 114940222006218870, guid: 097a4c5a7d49b1e48a44429901c486cc,
+        type: 2}
+      propertyPath: _foldout
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114940222006218870, guid: 097a4c5a7d49b1e48a44429901c486cc,
+        type: 2}
+      propertyPath: editor
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 097a4c5a7d49b1e48a44429901c486cc, type: 2}
   m_IsPrefabAsset: 0
@@ -3991,6 +4031,7 @@ GameObject:
   - component: {fileID: 1115542767}
   - component: {fileID: 1115542766}
   - component: {fileID: 1115542765}
+  - component: {fileID: 1115542771}
   - component: {fileID: 1115542768}
   - component: {fileID: 1115542764}
   - component: {fileID: 1115542769}
@@ -4869,6 +4910,7 @@ MonoBehaviour:
   - {fileID: 1115542769}
   - {fileID: 1115542764}
   - {fileID: 1115542768}
+  - {fileID: 1115542771}
   _parameters: []
   _showParameters: 0
   _showSettings: 1
@@ -5177,6 +5219,30 @@ MonoBehaviour:
   _showDescription: 0
   _description: <Description>
   _changeListeners: []
+--- !u!114 &1115542771
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1115542736}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1335902862, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 1
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 1115542763}
+  editor: {fileID: 0}
+  _caption: Set Mouse Lock
+  _breakpoint: 0
+  _lockMode: 0
+  _lockModeVar: {fileID: 0}
 --- !u!1001 &1145165746
 Prefab:
   m_ObjectHideFlags: 0
