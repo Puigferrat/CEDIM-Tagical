@@ -19,11 +19,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4044490173145370}
-  - component: {fileID: 114320857637864396}
-  - component: {fileID: 114566435336012900}
   - component: {fileID: 114662291544783406}
-  - component: {fileID: 114001923470260354}
+  - component: {fileID: 114320857637864396}
+  - component: {fileID: 114373191949832674}
   - component: {fileID: 114342212382042938}
+  - component: {fileID: 114967624204740062}
+  - component: {fileID: 114001923470260354}
+  - component: {fileID: 114655770770560198}
+  - component: {fileID: 114566435336012900}
   - component: {fileID: 114018684298996454}
   m_Layer: 0
   m_Name: Code
@@ -219,6 +222,7 @@ MonoBehaviour:
   _blocks:
   - {fileID: 114342212382042938}
   - {fileID: 114320857637864396}
+  - {fileID: 114967624204740062}
   editor: {fileID: 0}
   _showSettings: 0
   _displayMode: 0
@@ -327,6 +331,7 @@ MonoBehaviour:
   _id: Trigger enter
   _actions:
   - {fileID: 114566435336012900}
+  - {fileID: 114373191949832674}
   _parameters:
   - {fileID: 114001923470260354}
   - {fileID: 114662291544783406}
@@ -337,6 +342,30 @@ MonoBehaviour:
   _listeningRange: 0
   _listeningTarget: {fileID: 1868571752083770}
   _listeningList: {fileID: 0}
+--- !u!114 &114373191949832674
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1332912651892512}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1781552213, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 0
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114342212382042938}
+  editor: {fileID: 0}
+  _caption: Start Program
+  _breakpoint: 0
+  _target: {fileID: 114967624204740062}
+  _targetVar: {fileID: 0}
 --- !u!114 &114566435336012900
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -352,7 +381,7 @@ MonoBehaviour:
   _reset: 0
   _version: 1.1
   _moved: 0
-  _foldout: 1
+  _foldout: 0
   _drawSeparator: 0
   enabledInEditor: 1
   container: {fileID: 114342212382042938}
@@ -387,6 +416,46 @@ MonoBehaviour:
   _vector4Value: {x: 0, y: 0, z: 0, w: 0}
   _valueVar: {fileID: 114320857637864396}
   _variable: {fileID: 0}
+--- !u!114 &114655770770560198
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1332912651892512}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 777874982, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 1
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114967624204740062}
+  editor: {fileID: 0}
+  _caption: Play Animation
+  _breakpoint: 0
+  _targetType: 1
+  _anim: {fileID: 0}
+  _animVar: {fileID: 0}
+  _wrapMode: 0
+  _speed: 1
+  _speedVar: {fileID: 0}
+  _clip: {fileID: 0}
+  _clipVar: {fileID: 0}
+  _clipName: 
+  _clipIndex: 0
+  _animator: {fileID: 0}
+  _animatorVar: {fileID: 0}
+  _stateName: 
+  _stateNameVar: {fileID: 0}
+  _transitionDuration: 0
+  _transitionDurationVar: {fileID: 0}
+  _restart: 0
+  _restartVar: {fileID: 0}
 --- !u!114 &114662291544783406
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -470,6 +539,34 @@ MonoBehaviour:
   _hidden: 0
   _display: 1
   _label: Parameter
+--- !u!114 &114967624204740062
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1332912651892512}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1657164303, guid: 20990ec6b45e544b0b5f28b1e0c1c96b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _initialized: 1
+  _reset: 0
+  _version: 1.1
+  _moved: 0
+  _foldout: 1
+  _drawSeparator: 0
+  enabledInEditor: 1
+  container: {fileID: 114018684298996454}
+  editor: {fileID: 0}
+  _id: Start Hazzard
+  _actions:
+  - {fileID: 114655770770560198}
+  _parameters: []
+  _showParameters: 0
+  _showSettings: 1
+  _actionsFoldout: 1
+  _ignorePause: 0
 --- !u!135 &135432058768739946
 SphereCollider:
   m_ObjectHideFlags: 1
