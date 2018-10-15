@@ -1,20 +1,50 @@
 fileFormatVersion: 2
-guid: 31a54bee9a18f774faa1094f784271a6
+guid: b12aa4b3952e24449b01e7d0eda4c3db
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: lambert2
+    2100000: lambert1
+    2100002: lambert5
+    2100004: lambert6
+    2100006: Hair
+    2100008: Main
+    2100010: Wand
     2300000: //RootNode
     3300000: //RootNode
-    4300000: pergamino2
+    4300000: polySurface1
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: lambert2
-    second: {fileID: 2100000, guid: 93ccc8e40f004b94ca56235d9a79a9f3, type: 2}
+      name: Hair
+    second: {fileID: 2100000, guid: 7006069f91877ad46ae09483648f6071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main
+    second: {fileID: 2100000, guid: 8d19b3744880ee34a94f3da8bc7ee586, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wand
+    second: {fileID: 2100000, guid: 63b4d18951e3ab1468765f35d031a36b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 8d19b3744880ee34a94f3da8bc7ee586, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 7006069f91877ad46ae09483648f6071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 63b4d18951e3ab1468765f35d031a36b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -64,7 +94,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 0
+    useFileScale: 1
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
