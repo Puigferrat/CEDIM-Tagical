@@ -1,20 +1,15 @@
 fileFormatVersion: 2
-guid: a50b135e9236e0a409eaf6c30b823334
+guid: 31a54bee9a18f774faa1094f784271a6
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: lambert1
+    2100000: lambert2
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Mochila_1:Mochila_1
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: 46dac2a82fbfab041bee24ccabebc698, type: 2}
+    4300000: pergamino2
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -64,7 +59,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
