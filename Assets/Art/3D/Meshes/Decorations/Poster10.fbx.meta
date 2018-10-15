@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dac7a61970b1c2c48b234904de6f89f3
+guid: d3ee72e75c5f5444f85c26d29cfa01f7
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,13 +8,13 @@ ModelImporter:
     2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: poster1
+    4300000: poster3
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: lambert1
-    second: {fileID: 2100000, guid: eeefb1813b6c69b49b1a62f8a5d1fc48, type: 2}
+    second: {fileID: 2100000, guid: c0d7583efa71be8478348cc6b805a3e0, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

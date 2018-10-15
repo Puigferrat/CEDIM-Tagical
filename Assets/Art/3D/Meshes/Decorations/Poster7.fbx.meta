@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dac7a61970b1c2c48b234904de6f89f3
+guid: 7d0ef709b9a175b41a8c8c71f8175f64
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -14,7 +14,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: lambert1
-    second: {fileID: 2100000, guid: eeefb1813b6c69b49b1a62f8a5d1fc48, type: 2}
+    second: {fileID: 2100000, guid: f1997018cf2cf9b4bbe15e070cfa67e8, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -64,7 +64,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 0
+    useFileScale: 1
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
